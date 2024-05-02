@@ -6,7 +6,7 @@ This project dives into the Chicago Crimes dataset sourced from the City of Chic
 **Dataset:**
 The dataset was sourced from the City of Chicago Data Portal and contains detailed information on reported crimes, including crime type, location, date, and arrest status. This rich dataset enables thorough analysis and exploration of crime dynamics within the city.
 
-**[Dashboard Link]([url](https://public.tableau.com/views/ChicagoCrimesDashboard_17144289052040/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link))** 
+### [Dashboard Link ](https://public.tableau.com/views/ChicagoCrimesDashboard_17144289052040/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 **Tools and Libraries:**
 - Python: Utilized for data cleaning, preprocessing, and initial analysis.
